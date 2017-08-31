@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmContentProvider</string>
+    <string name="top_100">Billboard Top 100</string>
+</resources>
